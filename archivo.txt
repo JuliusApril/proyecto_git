@@ -1,5 +1,12 @@
+
 Esto es una prueba
 
 cambio para branch1.
 
 cambio para master.
+=======
+Esto es una prueba.
+
+Modificacion para branch1.
+
+
